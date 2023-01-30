@@ -6,7 +6,7 @@ This mobile application can be run by using the Localhost(using XAMPP) and setti
 
 Chocoholics is mainly created using Ionic Framework and PHP.
 
-CREATED BY TECHNOLOGICAL INSTITUTE OF THE PHILIPPINES QUEZON CITY STUDENTS (TIP-QC):
+CREATED BY TECHNOLOGICAL INSTITUTE OF THE PHILIPPINES QUEZON CITY STUDENTS (TIP-QC):<br>
 DREZZA ANACITO (Main Front-end Designer)
 JOHN CHRISTOPHER PESQUERA (Main Back-end Designer)
 AERON LOUISE MACAPANAS
