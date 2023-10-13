@@ -16,3 +16,12 @@ SALVADOR<br>
 THIS IS A PROJECT FOR OUR SYSTEMS INTEGRATION AND ARCHITECTURE 2
 
 YEAR: 2022
+
+To use with XAMPP:
+Extract files to htdocs
+use cmd in vscode
+cd to sia\Project
+Uninstall ionic (npm uninstall -g ionic)
+Reinstall ionic (npm install -g @ionic/cli)
+Open the app (ionic serve)
+
