@@ -11,17 +11,17 @@ DREZZA ANACITO (Main Front-end Designer)<br>
 PESQUERA (Main Back-end Designer)<br>
 MACAPANAS<br>
 BALMAYO<br>
-SALVADOR<br>
+SALVADOR<br><br>
 
-THIS IS A PROJECT FOR OUR SYSTEMS INTEGRATION AND ARCHITECTURE 2
+THIS IS A PROJECT FOR OUR SYSTEMS INTEGRATION AND ARCHITECTURE 2<br><br>
 
-YEAR: 2022
+YEAR: 2022<br><br>
 
-To use with XAMPP:
-Extract files to htdocs
-use cmd in vscode
-cd to sia\Project
-Uninstall ionic (npm uninstall -g ionic)
-Reinstall ionic (npm install -g @ionic/cli)
-Open the app (ionic serve)
+To use with XAMPP:<br>
+Extract files to htdocs<br>
+use cmd in vscode<br>
+cd to sia\Project<br>
+Uninstall ionic (npm uninstall -g ionic)<br>
+Reinstall ionic (npm install -g @ionic/cli)<br>
+Open the app (ionic serve)<br>
 
